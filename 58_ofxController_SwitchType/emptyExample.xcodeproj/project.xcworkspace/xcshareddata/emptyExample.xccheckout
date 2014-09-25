@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1AD48C9A-7031-42B5-B4BE-586079E802E6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>emptyExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>15EC715A474FAA9BFA651F2623FE67D250DFC838</key>
+		<string>/Volumes/leico/pro/OpenFrameWorks/</string>
+		<key>90E2F969A762FB62C413A0C44D1F334E6EC3F531</key>
+		<string>github.com:leico/ofxMidi.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>of_v0.8.3_ios_release/apps/myApps/58_ofxController_XYPad/emptyExample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>15EC715A474FAA9BFA651F2623FE67D250DFC838</key>
+		<string>../../../../../..</string>
+		<key>90E2F969A762FB62C413A0C44D1F334E6EC3F531</key>
+		<string>../../../../../..of_v0.8.3_ios_release/addons/ofxMidi/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>/Volumes/leico/pro/OpenFrameWorks/</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>15EC715A474FAA9BFA651F2623FE67D250DFC838</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>90E2F969A762FB62C413A0C44D1F334E6EC3F531</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxMidi</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>15EC715A474FAA9BFA651F2623FE67D250DFC838</string>
+			<key>IDESourceControlWCCName</key>
+			<string>OpenFrameWorks</string>
+		</dict>
+	</array>
+</dict>
+</plist>
